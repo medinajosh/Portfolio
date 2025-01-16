@@ -1,0 +1,31 @@
+/* Global Styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f9fafb;
+  color: #333;
+  scroll-behavior: smooth;
+}
+
+/* Customize Tailwind Colors */
+:root {
+  --primary-color: #1D4ED8; /* Blue */
+  --secondary-color: #F3F4F6; /* Light Gray */
+}
+
+/* Customize Buttons */
+button {
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  transform: translateY(-2px);
+}
+
+/* Custom Shadows */
+.shadow-md {
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
