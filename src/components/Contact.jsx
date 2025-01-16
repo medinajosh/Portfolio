@@ -11,7 +11,7 @@ const Contact = React.forwardRef((props, ref) => (
       </p>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         <a
-          href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQZSjdFwBbhNmCnWmtSXvLbDBKm"
+          href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQZSjdFwBbhNmCnWmtSXvLbDBKm?compose=CllgCKCFSrpDxGgghkHKtfzCmrtDHJczftXCHSbTsGZvlKkkQJVsLJHSQNFSFqNqRwHCNMFKkkL"
           className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-full font-medium shadow-xl transition-transform transform hover:scale-105 flex items-center justify-center space-x-3"
         >
           <span className="text-lg">Email Me</span>
