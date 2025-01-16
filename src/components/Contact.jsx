@@ -17,7 +17,7 @@ const Contact = React.forwardRef((props, ref) => (
           <span className="text-lg">Email Me</span>
         </a>
         <a
-          href="https://portfolio-eta-seven-20.vercel.app/"
+          href="https://github.com/medinajosh/Portfolio"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-black hover:bg-gray-800 text-white px-8 py-4 rounded-full font-medium shadow-xl transition-transform transform hover:scale-105 flex items-center justify-center space-x-3"
