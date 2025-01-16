@@ -38,7 +38,7 @@ const Projects = React.forwardRef((props, ref) => (
             </p>
           </div>
           <a
-            href="#"
+            href="https://www.figma.com/design/nx8ZhBDYs74JMCJdVUdtOB/POS-Design?node-id=0-1&p=f&t=j0jfANlJIVeQ3i75-0"
             className="text-blue-500 hover:text-blue-400 font-medium transition duration-300"
           >
             View Details
@@ -55,7 +55,7 @@ const Projects = React.forwardRef((props, ref) => (
             </p>
           </div>
           <a
-            href="#"
+            href="https://fuxionx.scarlet2.io/Php/login.php#categories"
             className="text-blue-500 hover:text-blue-400 font-medium transition duration-300"
           >
             View Details
