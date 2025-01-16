@@ -2,7 +2,11 @@ import React from "react";
 import aboutImage from "../assets/josh.jpg"; // Replace with the path to your image
 
 const About = React.forwardRef((props, ref) => (
-  <section ref={ref} className="about h-screen bg-black text-white py-20 relative overflow-hidden">
+  <section
+    ref={ref}
+    id="about" // Add an ID to the section for navigation
+    className="about h-screen bg-black text-white py-20 relative overflow-hidden"
+  >
     <div className="container mx-auto flex flex-col md:flex-row items-center justify-between px-6">
       {/* Left Column (Image) */}
       <div className="mt-8 md:mt-0 md:w-1/2 flex justify-center relative">
