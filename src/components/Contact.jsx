@@ -25,14 +25,6 @@ const Contact = React.forwardRef((props, ref) => (
           <span className="text-lg">GitHub</span>
         </a>
         <a
-          href="https://twitter.com/your-profile"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="bg-blue-500 hover:bg-blue-600 text-white px-8 py-4 rounded-full font-medium shadow-xl transition-transform transform hover:scale-105 flex items-center justify-center space-x-3"
-        >
-          <span className="text-lg">Twitter</span>
-        </a>
-        <a
           href="https://www.facebook.com/your-profile"
           target="_blank"
           rel="noopener noreferrer"
