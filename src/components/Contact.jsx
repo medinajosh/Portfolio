@@ -11,7 +11,7 @@ const Contact = React.forwardRef((props, ref) => (
       </p>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         <a
-          href="mailto:joshua@example.com"
+          href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQZSjdFwBbhNmCnWmtSXvLbDBKm"
           className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-full font-medium shadow-xl transition-transform transform hover:scale-105 flex items-center justify-center space-x-3"
         >
           <span className="text-lg">Email Me</span>
@@ -25,7 +25,7 @@ const Contact = React.forwardRef((props, ref) => (
           <span className="text-lg">GitHub</span>
         </a>
         <a
-          href="https://www.facebook.com/your-profile"
+          href="https://www.facebook.com/profile.php?id=100091386252261"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-blue-800 hover:bg-blue-900 text-white px-8 py-4 rounded-full font-medium shadow-xl transition-transform transform hover:scale-105 flex items-center justify-center space-x-3"
@@ -33,7 +33,7 @@ const Contact = React.forwardRef((props, ref) => (
           <span className="text-lg">Facebook</span>
         </a>
         <a
-          href="https://www.instagram.com/your-profile"
+          href="https://www.instagram.com/kyosh_u/"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-pink-500 hover:bg-pink-600 text-white px-8 py-4 rounded-full font-medium shadow-xl transition-transform transform hover:scale-105 flex items-center justify-center space-x-3"
@@ -41,15 +41,7 @@ const Contact = React.forwardRef((props, ref) => (
           <span className="text-lg">Instagram</span>
         </a>
         <a
-          href="https://wa.me/your-number"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="bg-green-500 hover:bg-green-600 text-white px-8 py-4 rounded-full font-medium shadow-xl transition-transform transform hover:scale-105 flex items-center justify-center space-x-3"
-        >
-          <span className="text-lg">WhatsApp</span>
-        </a>
-        <a
-          href="https://t.me/your-profile"
+          href="t.me/kyoshouh"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-full font-medium shadow-xl transition-transform transform hover:scale-105 flex items-center justify-center space-x-3"
